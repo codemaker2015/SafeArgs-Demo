@@ -6,7 +6,7 @@ The explanation about this implementation is [here]().
 
 ## Screen Recording
 
-![screenshtot](https://github.com/codemaker2015/SafeArgs-Demo/blob/master/demo/demo.gif)
+<img src="https://github.com/codemaker2015/SafeArgs-Demo/blob/master/demo/demo.gif" width="270" height="570">
 
 ## Demo
 
