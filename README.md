@@ -6,12 +6,12 @@ The explanation about this implementation is [here]().
 
 ## Screen Recording
 
-![screenshtot](https://github.com/codemaker2015/tflite-object-classification-demo/blob/master/demo/demo.gif)
+![screenshtot](https://github.com/codemaker2015/SafeArgs-Demo/blob/master/demo/demo.gif)
 
 ## Demo
 
 | Screenshots |
 |:---:|:---:|
-| ![screenshtot](https://github.com/codemaker2015/tflite-object-classification-demo/blob/master/demo/Screenshot1.jpg) | ![screenshtot](https://github.com/codemaker2015/tflite-object-classification-demo/blob/master/demo/Screenshot2.jpg) |
-| ![screenshtot](https://github.com/codemaker2015/tflite-object-classification-demo/blob/master/demo/Screenshot3.jpg) | ![screenshtot](https://github.com/codemaker2015/tflite-object-classification-demo/blob/master/demo/Screenshot4.jpg) |
+| ![screenshtot](https://github.com/codemaker2015/SafeArgs-Demo/blob/master/demo/Screenshot1.jpg) | ![screenshtot](https://github.com/codemaker2015/SafeArgs-Demo/blob/master/demo/Screenshot2.jpg) |
+| ![screenshtot](https://github.com/codemaker2015/SafeArgs-Demo/blob/master/demo/Screenshot3.jpg) | ![screenshtot](https://github.com/codemaker2015/SafeArgs-Demo/blob/master/demo/Screenshot4.jpg) |
 
