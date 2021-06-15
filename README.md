@@ -10,7 +10,7 @@ The explanation about this implementation is [here]().
 
 ## Demo
 
-| Screenshots |
+| Screenshots | Screenshots |
 |:---:|:---:|
 | ![screenshtot](https://github.com/codemaker2015/SafeArgs-Demo/blob/master/demo/Screenshot1.jpg) | ![screenshtot](https://github.com/codemaker2015/SafeArgs-Demo/blob/master/demo/Screenshot2.jpg) |
 | ![screenshtot](https://github.com/codemaker2015/SafeArgs-Demo/blob/master/demo/Screenshot3.jpg) | ![screenshtot](https://github.com/codemaker2015/SafeArgs-Demo/blob/master/demo/Screenshot4.jpg) |
